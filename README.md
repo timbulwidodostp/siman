@@ -3,6 +3,8 @@ Suite of commands for analysing the results of simulation studies and producing 
 
 Suite of Stata programs for the analysis of simulation studies Use siman With STATA 18
 
+https://www.youtube.com/watch?v=pEtZV8ufF9E
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
